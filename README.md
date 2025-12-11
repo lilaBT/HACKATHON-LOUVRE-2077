@@ -58,13 +58,3 @@ La vidéo finale dure **10 minutes exactes**, avec une voix off, des transitions
 
 - Narration immersive avec alternance droite/gauche pour guider le spectateur
 - Fil rouge narratif : cambriolage du Louvre en 2025, déclin de Nintendo, montée de Steam, transition écologique en 2077
-- Durée calibrée : **10 minutes exactes** (~1200 mots voix off)
-
----
-
-## Installation & Usage
-
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/<ton-compte>/<nom-du-projet>.git
-   ```
