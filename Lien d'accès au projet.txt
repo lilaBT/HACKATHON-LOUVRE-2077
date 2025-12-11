@@ -1,5 +1,7 @@
 Bonjour à vous !
 
+Les fichiers étants trop lourds pour GitHub, nous les avons déposés dans un lien SwissTransfer. Si le format ne convient pas, n'hésitez pas à revenir vers nous dès que possible pour que nous puissions trouver une autre solution.
 Vous retrouverez ci-joint la vidéo explicative de notre projet ainsi qu'un fichier .exe vous permettant de vous balader à l'intérieur de notre modélisation.
+
 
 >> https://www.swisstransfer.com/d/7bd07058-3bb2-4ca0-b02c-53da0632c732 <<
